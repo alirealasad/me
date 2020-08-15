@@ -1,0 +1,89 @@
+{
+  "name":{"first":"Asad","middle":"","last":"Ali"},
+  "image":"https://i.imgur.com/hMduUXr.jpg",
+  "about":"Hello I'm a Full Stack Developer with 3+ years real world Working Experience & I'm very eager to learn new Stuffs.",
+  "moreAboutMe":"you communicate with clarity and precision. We care about this almost as much as your technical ability.\n  you're passionate, even if it's not about analytics. There should be something you know more about than anyone on our team.\n  you’ve written 10,000 lines of code that look embarrassing in retrospect. ... and you've written 10,000 lines of good code since then.\n  you like fruit, sunshine, and bad jokes. We aren't robots.\n  What we're building",
+  "position":"Full Stack Developer/Engineer",
+  "birth":{"year":2000,"location":"Durgapur,India"},
+  "experience":[
+    {
+      "img":"https://i.imgur.com/m4rnu7k.png",
+      "company":"Modern Castings",
+      "website":"http://moderncastings.com/",
+      "position":"Junior Developer",
+      "timeperiod":"January 2017 - January 2020",
+      "description":"Junior Developer"
+    }
+  ],
+  "education":[
+    {
+      "img":"https://i.imgur.com/j9pJP6H.png",
+      "degree":"Major in Computer Science",
+      "school":"Lovely Professional University",
+      "website":"https://www.lpu.in/",
+      "timeperiod":"July 2020 - August 2022 (Expected)",
+      "description":"Bachelor of Computer Applications"
+    },
+    {
+      "img":"https://i.imgur.com/rdSXRoP.png",
+      "degree":"Diploma in Computer Science",
+      "school":"Kanyapur Polytechnic",
+      "website":"https://en.wikipedia.org/wiki/Kanyapur_Polytechnic",
+      "timeperiod":"August 2017 - July 2020 (Expected)",
+      "description":""
+    }
+  ],
+  "projects":[
+    {
+      "name":"NowChat",
+      "platform":"Vue & Express",
+      "description":"a social media website created by me",
+      "website":"https://nowchat.in/"
+    },
+    {
+      "name":"résumé-generator",
+      "platform":"Made With Vue",
+      "description":"Build fast and easy multiple beautiful resumes and create your best CV ever!",
+      "website":"https://github.com/alirealasad/Resume--Generator"
+    }
+  ],
+  "skills":[
+    {"name":"HTML5, CSS3 & SCSS","level":"100","type":"danger"},
+    {"name":"JavaScript (ES6+) & TypeScript","level":"99","type":"warning"},
+    {
+      "name":"Node.js (incl. Express.js, Feather.js, Koa)",
+      "level":"95",
+      "type":"success"
+    },
+    {"name":"Elixir(incl. Phoenix)","level":"80","type":"info"},
+    {"name":"Vue.js (incl. Vuex, Vue-router)","level":"99","type":"success"},
+    {"name":"React (incl. Redux, React-Native)","level":"75"},
+    {"name":"NoSql (MongoDB & NeDB)","level":"93","type":"success"},
+    {"name":"SQL (PostgreSQL & MySQL)","level":"93","type":"danger"},
+    {
+      "name":"Google Cloud, AWS (S3 & EC2), Netlify & Heroku",
+      "level":"70",
+      "type":"warning"
+    },
+    {
+      "name":"Git, BashScript, Docker, CircleCI, Kubernaties, electron.js",
+      "level":"75",
+      "type":"Neutral"
+    },
+    {"name":"Go & Python","level":"75","type":"Neutral"}
+  ],
+  "resumeOptimizer":"Description\nWe believe that building products based on user feedback should be elegant.\n\nWe want to challenge the way teams take on innovation projects and envision product development where ongoing conversations with users drive better product decisions. We are building a creative, global, remote first team and are always looking for talented humans who are interested in building the future of product development. Right now we are looking for an enthusiastic and talented Full Stack Engineer help us scale from our first batch of dedicated users to the next exciting phase for our company.\n\nRequirements\nOn your first day, we'd love for you to have:\nGreat front-end experience across the board with a solid understanding of Javascript (ES6+) & React\nAn interest in user experience design and a keen desire to solve problems for your users\nA love of working on problems end-to-end, taking ideas from conception through to delivery — you don't need to be an expert in everything, but you're willing to have a go and feel comfortable working collaboratively when you need help\nExcellent communication skills. As a remote-first company we are often working asynchronously; this means that we need to be really good at keeping each other in the loop with clear, succinct communications\nA willingness to test features with real users. Just like we want Pliik enables our customers to have ongoing conversations with their users to drive better product decisions, we need to be doing the same thing!\nIt's amazing, but not required, if you have:\nFamiliarity with Next.js, TypeScript, and MongoDB (we're more than happy to support your learning but any background knowledge on any of these is a big plus!)\nExperience working with serverless technology and architectures\nAn eye for design and some experience designing and building UI's (we're not looking for a whole design portfolio, but we'd love you to feel comfortable with trying out ideas)\nBenefits\nFully remote work (not limited by region)\nFlexible working arrangements — we look at the work you produce, not which hours that you're sitting in front of a screen!\nCompetitive salary with options for equity as an early employee",
+  "skillDescription":"Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).",
+  "contact":{
+    "email":"alirealasad@gmail.com",
+    "phone":"+91 8145 776 143",
+    "street":"West Bengal",
+    "address":"Jhanjra, WB 713363",
+    "postalcode":"713363",
+    "country":"India",
+    "linkedin":"alirealasad",
+    "website":"asadali.netlify.com",
+    "github":"alirealasad",
+    "youtube":"codingwithasad"
+  }
+}
