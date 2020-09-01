@@ -16,6 +16,10 @@ jobs:
         run: npm ci
       - name: run
         run: node index.js
+        env:
+          SECRET_KEY: ${{ secrets.SECRET_KEY }}
+          PUBLIC_KEY: ${{ secrets.PUBLIC_KEY }}
+
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')

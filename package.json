@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alirealasad/me.json#readme",
   "dependencies": {
+    "ilovepdf-sdk": "0.0.5",
     "puppeteer": "^5.2.1"
   }
 }
