@@ -1,7 +1,7 @@
 {
   "name":{"first":"Asad","middle":"","last":"Ali"},
   "image":"https://i.imgur.com/hMduUXr.jpg",
-  "about":"Hello I'm a hardworking and ambitious individual with a great passion for the programming and new technologies.",
+  "about":"Hello, I'm a hardworking and ambitious individual with a great passion for programming and new technologies.",
   "moreAboutMe":"you communicate with clarity and precision. We care about this almost as much as your technical ability.\n  you're passionate, even if it's not about analytics. There should be something you know more about than anyone on our team.\n  you’ve written 10,000 lines of code that look embarrassing in retrospect. ... and you've written 10,000 lines of good code since then.\n  you like fruit, sunshine, and bad jokes. We aren't robots.\n  What we're building",
   "position":"Full Stack Developer/Engineer",
   "birth":{"year":2000,"location":"Durgapur,India"},
@@ -29,7 +29,7 @@
       "name":"NowChat",
       "platform":"Vue & Express",
       "description":"a social media website created by me",
-      "website":"https://nowchat.in/"
+      "website":"https://nowchat.online/"
     },
     {
       "name":"résumé-generator",
@@ -69,7 +69,7 @@
     "email":"alirealasad@gmail.com",
     "phone":"+91 8145 776 143",
     "street":"West Bengal",
-    "address":"Jhanjra, WB 713363",
+    "address":"Jhanjra, WB 713385",
     "postalcode":"713363",
     "country":"India",
     "linkedin":"alirealasad",
