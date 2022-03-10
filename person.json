@@ -7,20 +7,12 @@
   "birth":{"year":2000,"location":"Durgapur,India"},
   "experience":[
     {
-      "img":"https://i.imgur.com/DPmEcj1.png",
+      "img":"https://i.imgur.com/YXQyHpP.png",
       "company":"CodeLane Solutions",
       "website":"https://codelane.co.in/",
-      "position":"mid-level Developer",
+      "position":"Mid-level Developer",
       "timeperiod":"March 2021 - Present",
-      "description":"mid-level Developer"
-    },
-    {
-      "img":"https://i.imgur.com/Q72tgcu.png",
-      "company":"Freelancing",
-      "website":"https://toggl.com/",
-      "position":"mid-level Developer",
-      "timeperiod":"January 2020 - March 2021",
-      "description":"Freelancing"
+      "description":"Mid-level Developer"
     },
     {
       "img":"https://i.imgur.com/m4rnu7k.png",
@@ -103,4 +95,5 @@
     "youtube":"codingwithasad"
   }
 }
+
 
