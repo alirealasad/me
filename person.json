@@ -5,7 +5,32 @@
   "moreAboutMe":"you communicate with clarity and precision. We care about this almost as much as your technical ability.\n  you're passionate, even if it's not about analytics. There should be something you know more about than anyone on our team.\n  you’ve written 10,000 lines of code that look embarrassing in retrospect. ... and you've written 10,000 lines of good code since then.\n  you like fruit, sunshine, and bad jokes. We aren't robots.\n  What we're building",
   "position":"Full Stack Developer/Engineer",
   "birth":{"year":2000,"location":"Durgapur,India"},
-  "experience":[],
+  "experience":[
+    {
+      "img":"https://i.imgur.com/DPmEcj1.png",
+      "company":"CodeLane Solutions",
+      "website":"https://codelane.co.in/",
+      "position":"mid-level Developer",
+      "timeperiod":"March 2021 - Present",
+      "description":"mid-level Developer"
+    },
+    {
+      "img":"https://i.imgur.com/Q72tgcu.png",
+      "company":"Freelancing",
+      "website":"https://toggl.com/",
+      "position":"mid-level Developer",
+      "timeperiod":"January 2020 - March 2021",
+      "description":"Freelancing"
+    },
+    {
+      "img":"https://i.imgur.com/m4rnu7k.png",
+      "company":"Modern Castings",
+      "website":"http://moderncastings.com/",
+      "position":"Junior Developer",
+      "timeperiod":"January 2017 - January 2020",
+      "description":"Junior Developer"
+    }
+  ],
   "education":[
     {
       "img":"https://i.imgur.com/j9pJP6H.png",
@@ -20,7 +45,7 @@
       "degree":"Diploma in Computer Science",
       "school":"Kanyapur Polytechnic",
       "website":"https://en.wikipedia.org/wiki/Kanyapur_Polytechnic",
-      "timeperiod":"August 2017 - July 2020 (Expected)",
+      "timeperiod":"August 2017 - July 2020",
       "description":""
     }
   ],
@@ -29,7 +54,7 @@
       "name":"NowChat",
       "platform":"Vue & Express",
       "description":"a social media website created by me",
-      "website":"https://nowchat.online/"
+      "website":"https://nowchat.netlify.app/"
     },
     {
       "name":"résumé-generator",
@@ -78,3 +103,4 @@
     "youtube":"codingwithasad"
   }
 }
+
