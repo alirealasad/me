@@ -10,17 +10,17 @@
       "img":"https://i.imgur.com/YXQyHpP.png",
       "company":"CodeLane Solutions",
       "website":"https://codelane.co.in/",
-      "position":"Mid-level Developer",
-      "timeperiod":"March 2021 - Present",
-      "description":"Mid-level Developer"
+      "position":"Senior Developer",
+      "timeperiod":"Nov 2021 - Present",
+      "description":"Senior Developer"
     },
     {
-      "img":"https://i.imgur.com/m4rnu7k.png",
-      "company":"Modern Castings",
-      "website":"http://moderncastings.com/",
-      "position":"Junior Developer",
-      "timeperiod":"January 2017 - January 2020",
-      "description":"Junior Developer"
+      "img":"https://i.imgur.com/NSQ2xa7.jpeg",
+      "company":"Kalsoft Solutions Private Limited",
+      "website":"http://www.kalsoft.in/",
+      "position":"Mid-Level Developer",
+      "timeperiod":"May 2017 - Oct 2021",
+      "description":"Mid-Level Developer"
     }
   ],
   "education":[
@@ -49,10 +49,10 @@
       "website":"https://nowchat.netlify.app/"
     },
     {
-      "name":"résumé-generator",
-      "platform":"Made With Vue",
-      "description":"Build fast and easy multiple beautiful resumes and create your best CV ever!",
-      "website":"https://github.com/alirealasad/Resume--Generator"
+      "name":"Budgetlify",
+      "platform":"Vue & Express",
+      "description":"The best Application for tracking your Budget",
+      "website":"https://budgetlify.netlify.app/"
     }
   ],
   "skills":[
@@ -95,5 +95,4 @@
     "youtube":"codingwithasad"
   }
 }
-
 
