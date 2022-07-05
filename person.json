@@ -65,7 +65,7 @@
     },
     {"name":"Vue.js (incl. Vuex, Nuxt)","level":"99","type":"success"},
     {"name":"React (incl. Redux, React-Native, Next)","level":"85"},
-    {"name":"datatbase(MongoDB, PostgreSQL, MySQL etc)","level":"93","type":"success"},
+    {"name":"Datatbase(MongoDB, PostgreSQL, MySQL etc)","level":"93","type":"success"},
     {
       "name":"Google Cloud, AWS (S3 & EC2), Netlify & Heroku",
       "level":"83",
