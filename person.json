@@ -79,13 +79,28 @@
       "name": "NowChat",
       "platform": "Vue & Express",
       "description": "A Social media website created by me",
-      "website": "https://nowchat.netlify.app/"
+      "website": "https://nowchat.netlify.app/",
+      "descriptions": [
+        "NowChat is social media website That provides an amazing social media experience.",
+        "It has social media Engagement features such as the Love button, Comments, Blogging, Replies etc",
+        "It also includes Instant Messaging, Image Upload, and Emoji",
+        "In addition to those, it also includes advanced social media features such as LoginWith(OAuth), Social profiling, Following, Dark mode, and Trending.",
+        "NowChat is made with Vue.js in the frontend and it's deployed in Netlify.",
+        "Whereas it uses Node.js with MongoDB as a database in the backend its deployed in Heroku and MongoDB Atlas.",
+        "The code bases are hosted in Github where it also uses CI/CD to deploy with the cloud providers."
+      ]
     },
     {
       "name": "Budgetlify",
       "platform": "Vue & Express",
       "description": "The best Application for tracking your Budget",
-      "website": "https://budgetlify.netlify.app/"
+      "website": "https://budgetlify.netlify.app/",
+      "descriptions": [
+        "Budgetlify is a cross-platform Monthly Budget Tracker that helps track monthly expenses, manage budgets, inform overspending before reaching your monthly limit, and visualize your expenditure in an amazing way that can compare expenses and transactions.",
+        "Budgetlify is made with React.js in the Frontend and it's deployed in Netlify.",
+        "Whereas it uses Python with PostgreSQL as a database in the backend and is deployed in Heroku. ",
+        "The code bases are hosted in Github where it also uses CI/CD to deploy with the cloud providers."
+      ]
     }
   ],
   "skills": [
