@@ -1,105 +1,161 @@
 {
-  "name":{"first":"Asad","middle":"","last":"Ali"},
-  "image":"https://i.imgur.com/wymRoSM.jpg",
-  "about":"Hello, I'm a hardworking and ambitious individual with a great passion for programming and new technologies.",
-  "moreAboutMe":"you communicate with clarity and precision. We care about this almost as much as your technical ability.\n  you're passionate, even if it's not about analytics. There should be something you know more about than anyone on our team.\n  you’ve written 10,000 lines of code that look embarrassing in retrospect. ... and you've written 10,000 lines of good code since then.\n  you like fruit, sunshine, and bad jokes. We aren't robots.\n  What we're building",
-  "position":"Full Stack Developer/Engineer",
-  "birth":{"year":2000,"location":"Kawasaki, Kanagawa, Japan"},
-  "experience":[
+  "name": {
+    "first": "Asad",
+    "middle": "",
+    "last": "Ali"
+  },
+  "image": "https://i.imgur.com/wymRoSM.jpg",
+  "about": "Hello, I'm a hardworking and ambitious individual with a great passion for programming and new technologies.",
+  "moreAboutMe": "you communicate with clarity and precision. We care about this almost as much as your technical ability.\n  you're passionate, even if it's not about analytics. There should be something you know more about than anyone on our team.\n  you’ve written 10,000 lines of code that look embarrassing in retrospect. ... and you've written 10,000 lines of good code since then.\n  you like fruit, sunshine, and bad jokes. We aren't robots.\n  What we're building",
+  "position": "Full Stack Developer/Engineer",
+  "birth": {
+    "year": 2000,
+    "location": "Kawasaki, Kanagawa, Japan"
+  },
+  "experience": [
     {
-      "img":"https://i.imgur.com/Uivt5Gh.png",
-      "company":"Rakuten",
-      "website":"https://www.rakuten.co.jp/",
-      "position":"Web Application Developer",
-      "timeperiod":"December 2022 - Present",
-      "description":"Web Application Developer"
+      "img": "https://i.imgur.com/Uivt5Gh.png",
+      "company": "Rakuten",
+      "website": "https://www.rakuten.co.jp/",
+      "position": "Web Application Developer",
+      "timeperiod": "December 2022 - Present",
+      "description": "Web Application Developer"
     },
     {
-      "img":"https://i.imgur.com/YXQyHpP.png",
-      "company":"CodeLane Solutions",
-      "website":"https://codelane.co.in/",
-      "position":"Senior Developer",
-      "timeperiod":"Nov 2021 - Nov 2022",
-      "description":"Senior Developer"
+      "img": "https://i.imgur.com/YXQyHpP.png",
+      "company": "CodeLane Solutions",
+      "website": "https://codelane.co.in/",
+      "position": "Senior Developer",
+      "timeperiod": "Nov 2021 - Nov 2022",
+      "descriptions": [
+        "Delivered working web-based software as per the requirements of the clients.",
+        "Design, build, Develop and write advanced programming code completely from scratch.",
+        "Build reliable and scalable code while following methodology such as SDLC and Agile.",
+        "Assign roles and advise the Junior Developers on projects and Delegate tasks to team members.",
+        "Ensure the technical feasibility and tackle bottlenecks of the Projects and tasks.",
+        "Reviewing codes for accuracy and functionality.",
+        "Oversaw the development from coding front-end to coding back-end and writing tests.",
+        "Deployed codebases using CI/CD to the cloud service providers."
+      ]
     },
     {
-      "img":"https://i.imgur.com/NSQ2xa7.jpeg",
-      "company":"Kalsoft Solutions Private Limited",
-      "website":"http://www.kalsoft.in/",
-      "position":"Mid-Level Developer",
-      "timeperiod":"May 2017 - Oct 2021",
-      "description":"Mid-Level Developer"
+      "img": "https://i.imgur.com/NSQ2xa7.jpeg",
+      "company": "Kalsoft Solutions Private Limited",
+      "website": "http://www.kalsoft.in/",
+      "position": "Mid-Level Developer",
+      "timeperiod": "May 2017 - Oct 2021",
+      "descriptions": [
+        "Build amazing reusable code and libraries.",
+        "Optimize application for maximum speed and scalability.",
+        "Created user Interfaces from Prototypes and mock-ups.",
+        "Develop and maintain existing libraries.",
+        "Assured user input is validated before submitting to Back-end.",
+        "Seamlessly Integrated Back-end API with Front-end using HTTP clients.",
+        "Wrote Quality Back-end API interfaces for connecting with Front-end.",
+        "Used CRUD operations in the Back-end for saving and retrieving data from Database."
+      ]
     }
   ],
-  "education":[
+  "education": [
     {
-      "img":"https://i.imgur.com/j9pJP6H.png",
-      "degree":"Major in Computer Science",
-      "school":"Lovely Professional University",
-      "website":"https://www.lpu.in/",
-      "timeperiod":"July 2020 - July 2022 [Lateral]",
-      "description":"Bachelor of Computer Applications"
+      "img": "https://i.imgur.com/j9pJP6H.png",
+      "degree": "Major in Computer Science",
+      "school": "Lovely Professional University",
+      "website": "https://www.lpu.in/",
+      "timeperiod": "July 2020 - July 2022 [Lateral]",
+      "description": "Bachelor of Computer Applications"
     },
     {
-      "img":"https://i.imgur.com/rdSXRoP.png",
-      "degree":"Diploma in Computer Science",
-      "school":"Kanyapur Polytechnic",
-      "website":"https://en.wikipedia.org/wiki/Kanyapur_Polytechnic",
-      "timeperiod":"August 2017 - July 2020",
-      "description":""
+      "img": "https://i.imgur.com/rdSXRoP.png",
+      "degree": "Diploma in Computer Science",
+      "school": "Kanyapur Polytechnic",
+      "website": "https://en.wikipedia.org/wiki/Kanyapur_Polytechnic",
+      "timeperiod": "August 2017 - July 2020",
+      "description": ""
     }
   ],
-  "projects":[
+  "projects": [
     {
-      "name":"NowChat",
-      "platform":"Vue & Express",
-      "description":"A Social media website created by me",
-      "website":"https://nowchat.netlify.app/"
+      "name": "NowChat",
+      "platform": "Vue & Express",
+      "description": "A Social media website created by me",
+      "website": "https://nowchat.netlify.app/"
     },
     {
-      "name":"Budgetlify",
-      "platform":"Vue & Express",
-      "description":"The best Application for tracking your Budget",
-      "website":"https://budgetlify.netlify.app/"
+      "name": "Budgetlify",
+      "platform": "Vue & Express",
+      "description": "The best Application for tracking your Budget",
+      "website": "https://budgetlify.netlify.app/"
     }
   ],
-  "skills":[
-    {"name":"HTML5, CSS3 & SCSS","level":"100","type":"danger"},
-    {"name":"JavaScript (ES6+) & TypeScript","level":"99","type":"warning"},
+  "skills": [
     {
-      "name":"Node.js (incl. Express.js, Feather.js, Nest.js)",
-      "level":"95",
-      "type":"success"
+      "name": "HTML5, CSS3 & SCSS",
+      "level": "100",
+      "type": "danger"
     },
-    {"name":"Vue.js (incl. Vuex, Nuxt)","level":"99","type":"success"},
-    {"name":"React (incl. Redux, React-Native, Next)","level":"85"},
-    {"name":"Datatbase (MongoDB, PostgreSQL, MySQL etc)","level":"93","type":"success"},
     {
-      "name":"Google Cloud, AWS (S3 & EC2), Netlify & Heroku",
-      "level":"83",
-      "type":"warning"
+      "name": "JavaScript (ES6+) & TypeScript",
+      "level": "99",
+      "type": "warning"
     },
-    {"name":"Docker & Kubernetes","level":"93","type":"danger"},
     {
-      "name":"Git, BashScript, CLI, CI/CD, electron.js",
-      "level":"90",
-      "type":"Neutral"
+      "name": "Node.js (incl. Express.js, Feather.js, Nest.js)",
+      "level": "95",
+      "type": "success"
     },
-    {"name":"Go, Python, Elixir","level":"80","type":"success"},
-    {"name":"Tools (Jira, trello, Asana, Figma, Sketch etc)","level":"93","type":"danger"}
+    {
+      "name": "Vue.js (incl. Vuex, Nuxt)",
+      "level": "99",
+      "type": "success"
+    },
+    {
+      "name": "React (incl. Redux, React-Native, Next)",
+      "level": "85"
+    },
+    {
+      "name": "Datatbase (MongoDB, PostgreSQL, MySQL etc)",
+      "level": "93",
+      "type": "success"
+    },
+    {
+      "name": "Google Cloud, AWS (S3 & EC2), Netlify & Heroku",
+      "level": "83",
+      "type": "warning"
+    },
+    {
+      "name": "Docker & Kubernetes",
+      "level": "93",
+      "type": "danger"
+    },
+    {
+      "name": "Git, BashScript, CLI, CI/CD, electron.js",
+      "level": "90",
+      "type": "Neutral"
+    },
+    {
+      "name": "Go, Python, Elixir",
+      "level": "80",
+      "type": "success"
+    },
+    {
+      "name": "Tools (Jira, trello, Asana, Figma, Sketch etc)",
+      "level": "93",
+      "type": "danger"
+    }
   ],
-  "resumeOptimizer":"Description\nThis is a hands-on technical role, day to day activities include:\nDelivering working web-based software\nGiving advice on technology adoption and selection as it pertains to web solutions. It’s not a project management role although mentoring is encouraged.\nInfluence and guide the direction of the web-based solutions and ramp up the rest of the team’s web knowledge\nWhat We Can Expect from You\n3+ years recent commercial programming with a strong emphasis towards delivering Web solutions\nExpert understanding of a wide variety of web technologies, how to design and build websites and web based applications\nSignificant experience using React (or another major framework like Vue)\nNice to Haves\nThese aren’t required, but be sure to mention them in your application if you have them.\nExperience with TypeScript, ReScript, Go, Node.js, Elixir, or any functional programming language (e.g. OCaml, Haskell, Erlang)\nAn understanding of server side rendering (e.g. using Next.js with React)\nExperience with AWS\nExperience working with video streams (RTSP, HLS) and video files\nExperience working with HR-related applications\nExperience with ReasonML\nExperience working with UX Designers & exposure to tools such as Figma, Framer, etc\nJapanese language proficiency",
-  "skillDescription":"Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).",
-  "contact":{
-    "email":"alirealasad@gmail.com",
-    "phone":"+81 070 9109 5659",
-    "street":"Kanagawa",
-    "address":"Kawasaki, Kanagawa, 213-0033",
-    "postalcode":"213-0033",
-    "country":"Japan",
-    "linkedin":"alirealasad",
-    "website":"asadali.netlify.com",
-    "github":"alirealasad",
-    "youtube":"codingwithasad"
+  "resumeOptimizer": "Description\nThis is a hands-on technical role, day to day activities include:\nDelivering working web-based software\nGiving advice on technology adoption and selection as it pertains to web solutions. It’s not a project management role although mentoring is encouraged.\nInfluence and guide the direction of the web-based solutions and ramp up the rest of the team’s web knowledge\nWhat We Can Expect from You\n3+ years recent commercial programming with a strong emphasis towards delivering Web solutions\nExpert understanding of a wide variety of web technologies, how to design and build websites and web based applications\nSignificant experience using React (or another major framework like Vue)\nNice to Haves\nThese aren’t required, but be sure to mention them in your application if you have them.\nExperience with TypeScript, ReScript, Go, Node.js, Elixir, or any functional programming language (e.g. OCaml, Haskell, Erlang)\nAn understanding of server side rendering (e.g. using Next.js with React)\nExperience with AWS\nExperience working with video streams (RTSP, HLS) and video files\nExperience working with HR-related applications\nExperience with ReasonML\nExperience working with UX Designers & exposure to tools such as Figma, Framer, etc\nJapanese language proficiency",
+  "skillDescription": "Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).",
+  "contact": {
+    "email": "alirealasad@gmail.com",
+    "phone": "+81 070 9109 5659",
+    "street": "Kanagawa",
+    "address": "Kawasaki, Kanagawa, 213-0033",
+    "postalcode": "213-0033",
+    "country": "Japan",
+    "linkedin": "alirealasad",
+    "website": "asadali.netlify.com",
+    "github": "alirealasad",
+    "youtube": "codingwithasad"
   }
 }
