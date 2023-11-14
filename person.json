@@ -94,7 +94,7 @@
       "name": "Budgetlify",
       "platform": "Vue & Express",
       "description": "The best Application for tracking your Budget",
-      "website": "https://budgetlify.netlify.app/",
+      "website": "https://budgetlify-2.netlify.app/",
       "descriptions": [
         "Budgetlify is a cross-platform Monthly Budget Tracker that helps track monthly expenses, manage budgets, inform overspending before reaching your monthly limit, and visualize your expenditure in an amazing way that can compare expenses and transactions.",
         "Budgetlify is made with React.js in the Frontend and it's deployed in Netlify.",
