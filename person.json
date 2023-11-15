@@ -109,14 +109,14 @@
       ]
     }
   ],
-  "skills": [
+"skills": [
     {
       "name": "HTML5, CSS3 & SCSS",
       "level": "100",
       "type": "danger"
     },
     {
-      "name": "JavaScript (ES6+) & TypeScript",
+      "name": "JavaScript(ES6+), Storybook, & TypeScript",
       "level": "99",
       "type": "warning"
     },
@@ -131,7 +131,7 @@
       "type": "success"
     },
     {
-      "name": "React (incl. Redux, React-Native, Next)",
+      "name": "React (incl. Redux, React-Native, Next), Svelte",
       "level": "85"
     },
     {
@@ -150,7 +150,7 @@
       "type": "danger"
     },
     {
-      "name": "Git, BashScript, CLI, CI/CD, electron.js",
+      "name": "Git, BashScript, CLI, CI/CD, GraphQL, Jenkins",
       "level": "90",
       "type": "Neutral"
     },
@@ -160,8 +160,8 @@
       "type": "success"
     },
     {
-      "name": "Tools (Jira, trello, Asana, Figma, Sketch etc)",
-      "level": "93",
+      "name": "Tools (Slack, Zoom, Confluence, Jira)",
+      "level": "98",
       "type": "danger"
     }
   ],
